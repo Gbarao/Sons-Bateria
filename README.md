@@ -1,17 +1,15 @@
-# Nome do meu projeto
+# Sons de Bateria
 
-Rápida descrição do objetivo de fazer esse projeto
+Pagina criada em HTML para ter sons de bateria
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Gabriel Barão        | Sons de Bateria
+| :label: Tecnologias | java, html, css
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+![Sons de Bateria](https://user-images.githubusercontent.com/123328967/217968015-2c080f10-4d51-4dce-834f-0943d709413e.png)
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
